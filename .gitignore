@@ -1,0 +1,9 @@
+# virtualenv
+.venv
+venv/
+ENV/
+.mypy_cache/
+__pycache__/
+.vscode/
+.idea/
+.env
